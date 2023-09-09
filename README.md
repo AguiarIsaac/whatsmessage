@@ -5,6 +5,9 @@
 ## 📄 Resumo do projeto
 * A aplicação tem como único objetivo enviar mensasgens no whatsapp sem precisar adicionar o numero a lista de contatos.
 
+## ❕Status do projeto
+![Status](https://img.shields.io/badge/Status-Finalizado-00BFFF?style=for-the-badge)
+
 ## 🔗 Link
 * [Whats Message](https://aguiarisaac.github.io/whatsmessage/).
 
